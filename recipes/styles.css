@@ -1,0 +1,21 @@
+.recipe_name{
+    font-size: 60px;
+    font-family: monospace;
+    background-color: indianred;
+    color:rgb(96, 32, 32);
+    text-align: center;
+}
+
+.img_alignment{
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.headings{
+    font-family: monospace;
+    background-color: lightblue;
+    color: rgb(72, 71, 71);
+    font-weight: 600 ;
+}

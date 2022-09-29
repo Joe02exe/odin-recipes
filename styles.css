@@ -1,0 +1,18 @@
+.recipe{
+    font-family: monospace;
+    font-size: 24px;
+    background-color: lightseagreen;
+    color: darkgreen;
+    text-align: center;
+}
+
+.title{
+    font-family: sans-serif;
+    color: brown;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+.text{
+    font-size: 20px;
+}
